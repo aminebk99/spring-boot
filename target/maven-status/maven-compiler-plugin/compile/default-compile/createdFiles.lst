@@ -1,0 +1,9 @@
+com\example\jwtuserservice\user\User$Roles.class
+com\example\jwtuserservice\user\userService\UserService.class
+com\example\jwtuserservice\filterChain\SecurityFilterChain.class
+com\example\jwtuserservice\cors\CorsConfig.class
+com\example\jwtuserservice\user\userRepository\UserRepository.class
+com\example\jwtuserservice\user\userController\UserController.class
+com\example\jwtuserservice\JwtUserServiceApplication.class
+com\example\jwtuserservice\user\User.class
+com\example\jwtuserservice\user\User$UserBuilder.class
